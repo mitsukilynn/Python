@@ -1,4 +1,3 @@
-print(ascii("a"))
 A=input().split()
 S=(int(A[0])*2+int(A[1]))%3
 #print(S)
